@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 2rem;
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
