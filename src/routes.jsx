@@ -13,7 +13,7 @@ export const route = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: "film",
+        path: "film/:id",
         element: <Film />,
       },
     ],
