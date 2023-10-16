@@ -1,0 +1,9 @@
+.filme__info {
+  width: 50vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.filme__info img {
+  width: 500px;
+}
