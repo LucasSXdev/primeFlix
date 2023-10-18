@@ -1,0 +1,40 @@
+.meus__filmes {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.meus__filmes h1 {
+  margin-bottom: 40px;
+}
+
+.meus__filmes ul li {
+  display: flex;
+  width: 50vw;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  gap: 30px;
+  margin-bottom: 15px;
+}
+
+.meus__filmes li a {
+  color: Blue;
+  margin-right: 8px;
+}
+
+.meus__filmes button {
+  padding: 5px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+}
+
+.meus__filmes button:hover {
+  background-color: green;
+  color: white;
+}
