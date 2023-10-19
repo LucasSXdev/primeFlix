@@ -1,7 +1,9 @@
+import "./index.css";
+
 export default function Footer() {
   return (
     <footer>
-      <p>feito com ReactJs e ReactRouter</p>
+      <p>Feito com ReactJs e ReactRouter</p>
     </footer>
   );
 }
